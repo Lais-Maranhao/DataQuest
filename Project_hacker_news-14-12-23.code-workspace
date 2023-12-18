@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Pós_Data_Science/Machine Learning/Regressão"
+		}
+	],
+	"settings": {
+		"docwriter.style": "GoDoc",
+		"docify.commentService.docstringFormat": "JavaDoc",
+		"docify.commentService.sidePanelReviewMode": false,
+		"docify.commentService.inlineComments": true,
+		"docify.commentService.moreExpressiveComments": true
+	}
+}
